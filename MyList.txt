@@ -36,4 +36,5 @@ ff02::3 ip6-allhosts
 
 #Title: Webs no permitidas.
 
-0.0.0.0 
+0.0.0.0 https://www.brazzers.com
+0.0.0.0 https://plays.org
