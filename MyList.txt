@@ -38,3 +38,6 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 brazzers.com
 0.0.0.0 plays.org
+0.0.0.0 www.facebook.com
+0.0.0.0 xvideo.com
+0.0.0.0 legalmentegratis.com
